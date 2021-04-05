@@ -1,1 +1,4 @@
-# merging-assignment
+this
+is
+some
+text
